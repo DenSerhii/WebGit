@@ -4,3 +4,7 @@ h1{
 div{
     background-color:lightblue;
 }
+img{
+    border:9px dashed lightgreen;
+    background:lightblue;
+}
